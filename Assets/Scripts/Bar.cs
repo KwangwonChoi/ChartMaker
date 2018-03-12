@@ -10,4 +10,5 @@ public class Bar : MonoBehaviour {
     public Image circle;
     public Image line;
     public Text barValue;
+    public string name;
 }
