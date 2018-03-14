@@ -4,5 +4,6 @@ using UnityEngine;
 
 public class LabelView : MonoBehaviour {
 
+    [HideInInspector]
     public List<Label> labels = new List<Label>();
 }

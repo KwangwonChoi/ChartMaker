@@ -9,6 +9,9 @@ public class BarManager{
         get;set;
     }
 
+    [HideInInspector]
     public List<Bar> bars = new List<Bar>();
+
+
 
 }

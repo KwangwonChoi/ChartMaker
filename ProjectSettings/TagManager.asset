@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Panel
+    uniqueID: 3287309971
+    locked: 0
+  - name: Line
+    uniqueID: 3094342231
+    locked: 0
+  - name: Circle
+    uniqueID: 3473671831
+    locked: 0
+  - name: Text
+    uniqueID: 872725905
+    locked: 0
